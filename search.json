@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Census Tracts",
     "section": "",
-    "text": "New York City"
+    "text": "New York City\n\n\n\n\n\n\n\n\n\nThis visualization reveals how median income varies across different racial groups and counties within New York City census tracts. By combining box plots with individual jittered points, the graphic highlights both the overall distribution and the granular spread of income values. Each facet represents a different racial group, offering a side-by-side comparison of how economic conditions differ across geographic and demographic lines. Notably, the income distributions exhibit substantial variation—not just between races, but also within counties—underscoring the complex and uneven economic landscape of NYC. The clarity of the visual design makes these disparities immediately apparent, while the use of currency formatting and clean theming enhances interpretability."
   },
   {
     "objectID": "about.html",
